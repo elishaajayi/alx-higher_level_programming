@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+
 def magic_calculation(a, b):
     result = 0
 
@@ -11,4 +12,5 @@ def magic_calculation(a, b):
         except:
             result = a + b
             pass
-    return (result)
+
+    return result
