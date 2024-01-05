@@ -1,3 +1,1 @@
-## Everything Is Object
-### Description
-Objects of Classes are the stars of the show this time
+0x09-python-everything_is_object
